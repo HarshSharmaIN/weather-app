@@ -18,7 +18,6 @@ A weather dashboard application that provides current weather conditions, a 5-da
 ## Setup Instructions
 
 1. **Clone the Repository**
-
    ```bash
    git clone https://github.com/HarshSharmaIN/weather-app.git
    cd weather-dashboard
@@ -61,4 +60,4 @@ A weather dashboard application that provides current weather conditions, a 5-da
 - Axios: Promise-based HTTP client for making API requests.
 
 ## Contact
-  For any questions or suggestions, please contact your.email@example.com.
+  For any questions or suggestions, please contact harshsharmaasl80@gmail.com.
