@@ -22,7 +22,7 @@ A weather dashboard application that provides current weather conditions, a 5-da
    ```bash
    git clone https://github.com/HarshSharmaIN/weather-app.git
    cd weather-dashboard
-  ```
+   ```
 2. **Install Dependencies**
   Ensure you have Node.js installed. Then run:
   ```bash
