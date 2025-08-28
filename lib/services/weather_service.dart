@@ -5,7 +5,7 @@ class WeatherService {
   static const String _baseUrl = 'http://api.openweathermap.org/data/2.5';
   static const String _geoUrl = 'http://api.openweathermap.org/geo/1.0';
   static const String _uvUrl = 'http://api.openweathermap.org/data/2.5/uvi';
-  static const String _apiKey = 'ca30f4d8594a22d902afc37df2877eec';
+  static const String _apiKey = 'ENTER_YOUR_API_KEY_HERE';
 
   final Dio _dio = Dio(
     BaseOptions(
